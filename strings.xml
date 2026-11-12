@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Anti-Theft</string>
+    <string name="title">NAGEENYA ANTI-THEFT</string>
+    <string name="intro">Wiirtuu safe-area fi radius kaa\'i. Alert argachuuf bakka (\"Allow all the time\") fi notification hayyami.</string>
+    <string name="hint_lat">Latitude (fkn 7.673)</string>
+    <string name="hint_lon">Longitude (fkn 36.835)</string>
+    <string name="hint_radius">Radius meetiraan (duraan 100)</string>
+    <string name="btn_use_location">BAKKA AMMA JIRRU FAYYADAMI</string>
+    <string name="btn_save">SAFE AREA KAA\'I</string>
+    <string name="btn_stop">ALERT SAFE AREA DHAABI</string>
+    <string name="status_stopped">Hordoffiin dhaabbateera.</string>
+    <string name="status_ok">Safe area kuufameera. Hordoffiin GPS ni hojjeta.</string>
+    <string name="status_fail">Geofence banuu hin dandeenye: %1$s</string>
+    <string name="status_need_location">Hayyama bakka (location) barbaachisa.</string>
+    <string name="status_need_bg">Location gara \"Allow all the time\" jijjiiri.</string>
+    <string name="toast_invalid">Coordinate sirrii fi radius xiqqaan meetira 50 galchi.</string>
+    <string name="toast_no_location">Bakki amma hin argamne. Maps altokko bani, deebi\'ii yaali.</string>
+    <string name="toast_allow_all_time">Location permission keessatti \"Allow all the time\" filadhu.</string>
+    <string name="footer">Email alert gara %1$s tiif server kee nageenya qabuun ergama (README ilaali). Password dogoggoraa hordofuu fi camera dhoksaan banuun app idilee Android irratti hin danda\'amu; hin dabalamne.</string>
+    <string name="notif_title">Beeksisa Anti-Theft</string>
+    <string name="notif_left">Bilbilli kee safe area keessaa ba\'eera.</string>
+    <string name="notif_returned">Bilbilli kee safe area irratti deebi\'eera.</string>
+    <string name="channel_name">Beeksisa Anti-Theft</string>
+</resources>
